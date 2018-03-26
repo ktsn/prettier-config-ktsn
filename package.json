@@ -1,0 +1,17 @@
+{
+  "name": "prettier-config-ktsn",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktsn/prettier-config-ktsn.git"
+  },
+  "keywords": ["Prettier", "config"],
+  "author": "katashin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktsn/prettier-config-ktsn/issues"
+  },
+  "homepage": "https://github.com/ktsn/prettier-config-ktsn#readme"
+}
